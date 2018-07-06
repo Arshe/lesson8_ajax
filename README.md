@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 06, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Brian Lorenz)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a web application that uses ajax to retrieve information about movies entered in the search bar.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://arshe.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Ajax alows changes to a webpage to be made without reloading the webpage.)
+2. (JSON is a light-weight format used to transmit data over network connections.)
+3. (JSON files contain structured data.)
